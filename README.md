@@ -6,7 +6,6 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
     <a href="https://phasmatechnologies.com/404/">
       Solution
     </a>
@@ -24,7 +23,7 @@
 - [Contact](#contact)
 
 ## Overview
-[screenshot](https://phasma-technologies.s3.us-east-2.amazonaws.com/devchallenges/404.jpg)
+<img src="https://phasma-technologies.s3.us-east-2.amazonaws.com/devchallenges/404.jpg">
 
 ### Built With
 - HTML5
